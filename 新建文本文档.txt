@@ -1,7 +1,7 @@
 MPM23
-  project management 最终作业
-  12月13日西班牙时间19点之前交，分组名单，选题说明，作业要求在网站上的group assignment里面。
-  13日那天要求做20分钟的presentation（ppt），小组内所有人都要说。
+  project management 
+  终稿12月13日西班牙时间19点之前交，分组名单，选题说明，作业要求在网站上的group assignment里面。
+  12月9日那天要求做30分钟内的presentation，老师的建议是20-25页，ppt本身要简洁且精确，要有最关键的内容。
 
 
 MPM21
@@ -12,9 +12,8 @@ MPM21
 - 如果上传有问题，可以在开课的时候亲手发给我。
 - 逾期提交将受到 50% 成绩的处罚。
 
-ACTIVITY 5.  Grifols. Valuation Analysis
-ddl：Tuesday, 30 November 2021, 12:00
-
+activities 5
+之前作业没交的同学尽快补上，这门课的作业算分的！
 
 注意：有考试！！！（时间未说）
 
@@ -26,8 +25,8 @@ ddl：Tuesday, 30 November 2021, 12:00
 所有必要的公式都可以在考试的后面找到。
 
 
-MPM20
 
+MPM20
 注意：下周考试！
 
 各位
